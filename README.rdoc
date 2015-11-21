@@ -1,28 +1,22 @@
-== README
+Hermes
+=======
+[![Build Status](https://travis-ci.org/feedbin/feedbin.svg?branch=master)](https://travis-ci.org/feedbin/feedbin)
+[![Code Climate](https://codeclimate.com/github/feedbin/feedbin.svg)](https://codeclimate.com/github/feedbin/feedbin)
+[![Test Coverage](https://codeclimate.com/github/feedbin/feedbin/badges/coverage.svg)](https://codeclimate.com/github/feedbin/feedbin)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Hermes is a rails based RSS feed reader.
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Introduction
+------------
+
+Hermes is a simple web based RSS reader.
+
+Requirements
+------------
+
+ - Mac OS X or Linux
+ - [Ruby 2.2](http://www.ruby-lang.org/en/)
+ - [Postgres 9.4.5](http://www.postgresql.org/)
+ - [Redis 3.0.5](http://redis.io/)
+    
